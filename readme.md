@@ -137,9 +137,11 @@
 # <a name="source"></a>Ресурсы и обратная связь
 
 Официальный сайт: https://hackathon.ozi-ru.org/
+
 Новостной телеграм-канал: https://t.me/hackathon_OZI
+
 Общий телеграм-чат хакатона: https://t.me/discussion_hack_OZI
 
 Если у вас остались вопросы, пишите нам: mail@ozi-ru.org 
-Вопросы сотрудничества: https://t.me/klimarev
 
+Вопросы сотрудничества: https://t.me/klimarev
