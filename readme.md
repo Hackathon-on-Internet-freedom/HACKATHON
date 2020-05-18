@@ -45,6 +45,12 @@
 
 ---
 
+# Стрим-открытие Хакатона
+
+{% include youtubePlayer.html id="Tr9Edm5QeSs" %}
+
+---
+
 # <a name="participates"></a>Участники
 
 ![Participants](HIS-illustr.png)
