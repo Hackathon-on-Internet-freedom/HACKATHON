@@ -45,9 +45,10 @@
 
 ---
 
-# Стрим-открытие Хакатона
+# Стримы Хакатона
 
-{% include youtubePlayer.html id="Tr9Edm5QeSs" %}
+## Открытие Хакатона:
+[![Видео открытия хакатона](http://img.youtube.com/vi/Tr9Edm5QeSs/0.jpg)](http://www.youtube.com/watch?v=Tr9Edm5QeSs)
 
 ---
 
