@@ -52,6 +52,11 @@
 ## Открытие Хакатона:
 [![Видео открытия хакатона](http://img.youtube.com/vi/Tr9Edm5QeSs/0.jpg)](http://www.youtube.com/watch?v=Tr9Edm5QeSs)
 
+
+## Access Now:
+[![Видео открытия хакатона](http://img.youtube.com/vi/4PyVFylQhwY/0.jpg)](http://www.youtube.com/watch?v=4PyVFylQhwY)
+
+
 ---
 
 # <a name="participates"></a>Участники
