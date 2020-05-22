@@ -57,6 +57,9 @@
 [![Видео открытия хакатона](http://img.youtube.com/vi/4PyVFylQhwY/0.jpg)](http://www.youtube.com/watch?v=4PyVFylQhwY)
 
 
+## ICANN:
+[![Видео открытия хакатона](http://img.youtube.com/vi/kU1sW7PFmSE/0.jpg)](http://www.youtube.com/watch?v=kU1sW7PFmSE)
+
 ---
 
 # <a name="participates"></a>Участники
