@@ -1,5 +1,7 @@
 # ХАКАТОН ИНТЕРНЕТ СВОБОДЫ
 
+# [ПОДАННЫЕ ПРОЕКТЫ](projects.md)
+
 
 ![LOGO](HIS-logotransp.png)
 
