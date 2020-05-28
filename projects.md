@@ -17,6 +17,9 @@ Android-разработчик. Я бы тогда взял на себя апп
 * https://t.me/MikeLambert
 * https://github.com/mike-lambert 
 
+### Репозиторий
+https://github.com/Hackathon-on-Internet-freedom/Killswitch
+
 --- 
 
 ## LockCheckKZ	
