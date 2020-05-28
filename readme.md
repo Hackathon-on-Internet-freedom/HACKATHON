@@ -55,12 +55,24 @@
 [![Видео открытия хакатона](http://img.youtube.com/vi/Tr9Edm5QeSs/0.jpg)](http://www.youtube.com/watch?v=Tr9Edm5QeSs)
 
 
-## Access Now:
-[![Видео открытия хакатона](http://img.youtube.com/vi/4PyVFylQhwY/0.jpg)](http://www.youtube.com/watch?v=4PyVFylQhwY)
+## Access Now, Наталья Крапива:
+[![Стрим с Натальей Крапива Access Now](http://img.youtube.com/vi/4PyVFylQhwY/0.jpg)](http://www.youtube.com/watch?v=4PyVFylQhwY)
 
 
-## ICANN:
-[![Видео открытия хакатона](http://img.youtube.com/vi/kU1sW7PFmSE/0.jpg)](http://www.youtube.com/watch?v=kU1sW7PFmSE)
+## ICANN, Михаил Анисимов:
+[![Стрим с Михаилом Анисимовым из ICANN](http://img.youtube.com/vi/kU1sW7PFmSE/0.jpg)](http://www.youtube.com/watch?v=kU1sW7PFmSE)
+
+## CIVIC-TECH, Ксения Ермошина:
+[![Стрим с Ксенией Ермошиной](http://img.youtube.com/vi/3QaCysr4OU8/0.jpg)](http://www.youtube.com/watch?v=3QaCysr4OU8)
+
+## RIPE NCC, Алексий Семеняка:
+[![Стрим с Алексием Семенякой из RIPE NCC](http://img.youtube.com/vi/W9sxS6siVpo/0.jpg)](http://www.youtube.com/watch?v=W9sxS6siVpo)
+
+## Визуализация, Ильдар Якубов:
+[![Стрим с Ильдаром Якубовым](http://img.youtube.com/vi/7VX2-ilAKD4/0.jpg)](http://www.youtube.com/watch?v=7VX2-ilAKD4)
+
+
+
 
 ---
 
