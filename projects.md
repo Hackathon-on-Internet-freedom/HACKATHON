@@ -34,7 +34,8 @@ https://github.com/Hackathon-on-Internet-freedom/Killswitch
 * sharky.dima@gmail.com 	
 * https://t.me/sharkymdt 
 * https://github.com/sharkydima 
-
+### Репозиторий
+https://github.com/Hackathon-on-Internet-freedom/LockCheckKZ
 
 ---
 
