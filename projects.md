@@ -15,7 +15,10 @@ Android-разработчик. Я бы тогда взял на себя апп
 Майк
 * cyberspacelabs@gmail.com
 * https://t.me/MikeLambert
-* https://github.com/mike-lambert 
+* https://github.com/mike-lambert
+
+### Репозиторий
+https://github.com/Hackathon-on-Internet-freedom/Killswitch
 
 --- 
 
@@ -31,6 +34,7 @@ Android-разработчик. Я бы тогда взял на себя апп
 * sharky.dima@gmail.com 	
 * https://t.me/sharkymdt 
 * https://github.com/sharkydima 
+
 
 ---
 
