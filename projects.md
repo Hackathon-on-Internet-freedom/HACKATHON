@@ -536,3 +536,20 @@ https://github.com/Hackathon-on-Internet-freedom/Alarm-button-on-the-wristband
 * https://github.com/iliabadeev
 ### Репозиторий:
 https://github.com/Hackathon-on-Internet-freedom/Parser-for-GosZakupki
+
+---
+
+## politreon
+### Описание проекта
+Аналог патреона, но с прозрачным движением средств.
+### Какую проблему решает проект
+Пожертвования будут идти на благоустройство города или городские проекты. Отвечать за распределение средств будут какие нибудь хорошие депутаты, в которых мы 100% уверены. Каждый жертвователь будет видеть куда ушли его деньги или выбирать в какой проект или инициативу их направить.
+### В проект нужны:
+2x mern
+### Контакты:
+safiullin
+* albertincx@gmail.com
+* https://t.me/safiullin
+* https://github.com/albertincx
+### Репозиторий:
+https://github.com/Hackathon-on-Internet-freedom/politreon
