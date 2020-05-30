@@ -287,7 +287,7 @@ https://github.com/Hackathon-on-Internet-freedom/Personal-Data-Keeper
 Sviatoslav
 * Svytoslav1@gmail.com
 * https://t.me/angel1_wings	
-* https://github.com/Svytoslav
+* https://github.com/Sviatoslav167
 ### Репозиторий:
 https://github.com/Hackathon-on-Internet-freedom/Zapravka
 
@@ -382,7 +382,7 @@ It-специалист, программист, дизайнер, специа�
 Sviatoslav
 * Svytoslav1@gmail.com
 * https://t.me/angel1_wings
-* https://github.com/Sviatoslav
+* https://github.com/Sviatoslav167
 ### Репозиторий:
 https://github.com/Hackathon-on-Internet-freedom/Reshetka
 
